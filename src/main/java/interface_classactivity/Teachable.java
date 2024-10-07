@@ -1,4 +1,4 @@
-package Intefa;
+package interface_classactivity;
 
 public interface Teachable {
 

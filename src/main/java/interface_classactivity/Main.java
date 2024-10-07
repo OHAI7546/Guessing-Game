@@ -1,4 +1,4 @@
-package Intefa;
+package interface_classactivity;
 
 public class Main {
     public static void main(String[] args) {

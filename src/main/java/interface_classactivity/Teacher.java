@@ -1,4 +1,4 @@
-package Intefa;
+package interface_classactivity;
 
 public class Teacher implements Teachable{
     @Override
